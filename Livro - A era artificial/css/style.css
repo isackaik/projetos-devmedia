@@ -5,24 +5,25 @@
 
 div{
     text-align: center;
-    border: 1px solid rgb(159, 156, 156);
+    border: .2px solid rgb(159, 156, 156);
     padding: 30px;
-    font-family: Arial;
+    font-family: Tahoma;
 }
 
 h1{
-    font-family: Arial;
     font-weight: bold;
     font-size: 30px;
+    padding-bottom: 30px;
 }
 h2{
-    font-family: Arial;
     font-weight: bold;
     font-size: 25px;
+    padding-bottom: 30px;
 }
 
 p{
-    padding: 20px;
+    font-size: 20px;
+    padding: 0 40rem 50px 40rem;
 }
 
 a{
@@ -31,5 +32,13 @@ a{
     color: white;
     text-decoration: none;
     font-weight: bold;
-    border-radius: 15px;
+    border-radius: 25px;
+}
+
+img{
+    padding-bottom: 30px;
+}
+
+span{
+    font-weight: bold;
 }
